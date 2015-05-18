@@ -15,4 +15,6 @@ This repo contain useful links related to tutorials, useful codes and resources
    * https://guides.github.com/features/mastering-markdown/
    
 ## Good tutorial on setting background image to UIButton in iOS
+  Sometime we need to set the background image to UIButton in iOS with out stretching it..here is very nice explaination
+<br/>
 http://iosdevelopertips.com/user-interface/ios-5-uiimage-and-resizableimagewithcapinsets.html
