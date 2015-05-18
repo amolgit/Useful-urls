@@ -11,4 +11,5 @@ This repo contain useful links related to tutorials, useful codes and resources
 ## Markdown language tutorial
    The language that is used to create this read me file with extension .md 
    <br/>
-   1. https://confluence.atlassian.com/display/STASH/Markdown+syntax+guide
+   * https://confluence.atlassian.com/display/STASH/Markdown+syntax+guide
+   * https://guides.github.com/features/mastering-markdown/
