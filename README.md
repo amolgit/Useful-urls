@@ -13,3 +13,6 @@ This repo contain useful links related to tutorials, useful codes and resources
    <br/>
    * https://confluence.atlassian.com/display/STASH/Markdown+syntax+guide
    * https://guides.github.com/features/mastering-markdown/
+   
+## Good tutorial on setting background image to UIButton in iOS
+http://iosdevelopertips.com/user-interface/ios-5-uiimage-and-resizableimagewithcapinsets.html
